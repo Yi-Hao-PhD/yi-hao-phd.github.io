@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Presentations"
+    url: /presentations/
+  - title: "Speaking Engagements"
+    url: /speaking/
+  - title: "Academic CV"
+    url: /cv/
