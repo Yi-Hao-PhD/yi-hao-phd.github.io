@@ -63,7 +63,7 @@ author:
   bio    : "Higher Ed Scholar-Practitioner"
   links:
     - label: "LinkedIn"
-      icon: "https://fontawesome.com/icons/linkedin?f=brands&s=solid"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yhao01/"
     - label: "HigherEdJobs Profile"
       icon: "fab fa-fw fa-twitter-square"
@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Google Scholar"
-       icon: "fab fa-fw fa-instagram"
+       icon: "fab fa-fw fa-google"
        url: "https://scholar.google.com/citations?user=Hx_wYikAAAAJ&hl=en"
 
 footer:
