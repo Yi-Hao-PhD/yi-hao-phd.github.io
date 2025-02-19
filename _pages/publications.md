@@ -7,6 +7,8 @@ I actively engage in various forms of thought leadership through scholarship and
 - Inside Higher Ed
   - Friendship in the Workplace and Graduate School (scheduled, with Mallory Neil, Ph.D.)
   - [**A New Model to Support International Ph.D.s and Postdocs**](https://www.insidehighered.com/opinion/career-advice/carpe-careers/2024/01/22/new-model-support-international-phds-and-postdocs) (Jan. 22, 2024, with Priya Date, Ph.D.)
+  testing
+  
 - HigherEdJobs (in collaboration with Mallory Neil, Ph.D.)
   - How Can AI Help with Career Exploration (Feb. 3, 2025)
   - How To Navigate Your Mid-Career Transition (Nov. 12, 2024)
