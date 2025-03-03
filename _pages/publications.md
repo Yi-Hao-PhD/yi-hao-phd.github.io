@@ -2,6 +2,7 @@
 permalink: /publications/
 title: "Publications"
 layout: splash
+classes: wide
 ---
 
 I actively engage in various forms of thought leadership through scholarship and presentations. 
